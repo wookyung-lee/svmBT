@@ -1,3 +1,5 @@
+## This is the demonstration of Chapter 5 of my Bachelor thesis at the University of Osnabrueck. 
+
 # install
 - python Version 3.8.8
 - sklearn Version: 1.3.2
@@ -10,4 +12,3 @@ CIFAR-10: tensorflow.keras
 All imported from sklearn.datasets
 list of datasets that are also available can be found: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
 
-This is the demonstration of Chapter 5 of my Bachelor thesis at the University of Osnabrueck. 
