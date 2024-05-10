@@ -1,6 +1,6 @@
 # install
-python Version 3.8.8
-sklearn Version: 1.3.2
+- python Version 3.8.8
+- sklearn Version: 1.3.2
 
 # dataset used in "comparison_w_real_data"
 MNIST: tensorflow.keras https://keras.io/api/datasets/mnist/
