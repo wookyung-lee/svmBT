@@ -1,6 +1,6 @@
 ## This is the demonstration of Chapter 5 of my Bachelor thesis at the University of Osnabrueck. 
 
-# install
+# Install
 - python Version 3.8.8
 - sklearn Version: 1.3.2
 
