@@ -5,8 +5,8 @@
 - sklearn Version: 1.3.2
 
 # Dataset used in "comparison_w_fake_data"
-All imported from sklearn.datasets \
-The list of datasets that are also available can be found: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
+Some imported from sklearn.datasets, and some generated manually \
+The list of further datasets that are also available can be found here: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets
 
 # Dataset used in "comparison_w_real_data"
 All imported from keras.datasets \
